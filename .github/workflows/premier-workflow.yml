@@ -18,4 +18,5 @@ jobs:
         run: date
 
       - name: Afficher le système
-        run: uname -a
+        run: uname -a - name: Nom du projet
+        run: echo "Projet TP DevOps"
