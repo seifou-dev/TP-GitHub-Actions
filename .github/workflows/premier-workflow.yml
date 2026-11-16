@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Afficher un message
-        run: echo "Bonjour ! Mon premier GitHub Actions fonctionne."
+        run: echo "Bienvenue dans le cours DevOps"
 
       - name: Afficher la date
         run: date
