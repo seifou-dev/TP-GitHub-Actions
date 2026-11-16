@@ -25,3 +25,5 @@ jobs:
 
       - name: Afficher la date d'exécution
         run: 16.00
+        - name: Verification finale
+     run: echo "Le workflow se declenche automatiquement"
